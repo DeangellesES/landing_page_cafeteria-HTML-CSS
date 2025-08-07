@@ -3,7 +3,7 @@
 <h2>📌 Sobre o Projeto</h2>
 <p>Este é um projeto simples que pode facilmente ser usado por uma Cafeteria. Este site foi criado como exemplo pra uma aplicação real.</p>
 
-<h3>💻<a href="https://deangelleses.github.io/site_frutaEfruto-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
+<h3>💻<a href="https://deangelleses.github.io/landing_page_cafeteria-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
