@@ -1,4 +1,4 @@
-<h1>Projeto: Landing Page simples para uma Cafeteria Site</h1>
+<h1>Projeto: Landing Page simples para uma Cafeteria</h1>
 
 <h2>📌 Sobre o Projeto</h2>
 <p>Este é um projeto simples que pode facilmente ser usado por uma Cafeteria. Este site foi criado como exemplo pra uma aplicação real.</p>
